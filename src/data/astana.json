@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.32, 51.24], [71.56, 51.24]] },
+      "properties": { "name": "Saryarka North", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.32, 51.22], [71.56, 51.22]] },
+      "properties": { "name": "Kenesary Ave", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.32, 51.18], [71.56, 51.18]] },
+      "properties": { "name": "Kabanbai Batyr Ave", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.32, 51.14], [71.56, 51.14]] },
+      "properties": { "name": "Mangilik El Ave", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.32, 51.11], [71.56, 51.11]] },
+      "properties": { "name": "Respubliki Ave", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.36, 51.09], [71.36, 51.27]] },
+      "properties": { "name": "Turan Ave", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.38, 51.09], [71.38, 51.27]] },
+      "properties": { "name": "Dostyk Ave", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.43, 51.09], [71.43, 51.27]] },
+      "properties": { "name": "Beibitshilik St", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.45, 51.09], [71.45, 51.27]] },
+      "properties": { "name": "Kabanbai St N-S", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.48, 51.09], [71.48, 51.27]] },
+      "properties": { "name": "Saryarka Ave N-S", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "LineString", "coordinates": [[71.52, 51.09], [71.52, 51.27]] },
+      "properties": { "name": "Kenesary Ave N-S", "type": "road" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [71.36, 51.23] },
+      "properties": { "node_id": "TK-04", "name": "Turan — Kabanbai Batyr", "queue_length": 240, "type": "intersection" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [71.38, 51.11] },
+      "properties": { "node_id": "ME-Dostyk", "name": "Mangilik El — Dostyk", "queue_length": 120, "type": "intersection" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [71.48, 51.18] },
+      "properties": { "node_id": "Saryarka", "name": "Saryarka — Beibitshilik", "queue_length": 200, "type": "intersection" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [71.43, 51.24] },
+      "properties": { "node_id": "RP-03", "name": "Respubliki — Turan", "queue_length": 90, "type": "intersection" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [71.45, 51.14] },
+      "properties": { "node_id": "KB-05", "name": "Kabanbai — Dostyk", "queue_length": 160, "type": "intersection" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [71.52, 51.22] },
+      "properties": { "node_id": "KN-06", "name": "Kenesary — Respubliki", "queue_length": 70, "type": "intersection" }
+    }
+  ]
+}
